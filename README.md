@@ -29,11 +29,6 @@
   - Focus sul benessere e sulla motivazione
 - **Interfaccia intuitiva** pensata per studenti e professionisti.
 
----
-
-## 🔗 Ispirazione
-- Modello simile a **Hackersgen di Sorint**, adattato però al contesto di **Project Informatica / WeAreProject**.
-- Approccio innovativo e moderno, pensato da un team giovane e dinamico.
 
 ---
 
@@ -44,3 +39,4 @@ Creare una piattaforma che diventi:
 - Un ambiente digitale che valorizzi sia i **nuovi talenti** sia i **professionisti già inseriti**.
 
 ---
+
