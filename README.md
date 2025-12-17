@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Obiettivi del Progetto
-- Formare **nuovi dipendenti** e **aspiranti lavoratori** nel settore Project.
+- Formare **nuovi dipendenti** e **aspiranti lavoratori** nel settore WeAreProject.
 - Offrire un sistema di **classificazione** basato su:
   - Certificazioni
   - Competenze
