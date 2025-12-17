@@ -1,7 +1,7 @@
 # 📚 Piattaforma di Formazione e Fidelity per Project Informatica / WeAreProject
 
 ## 👥 Team
-- Piazzalunga Alessandro, Gagu Mirko, Ferrari Giovanni, Garish Mohamed, Guisse Aboubakri
+- Piazzalunga Alessandro, Gagu Mirko, Ferrari Giovanni Battista, Garish Mohamed, Guisse Aboubakri
 - Obiettivo: creare una piattaforma innovativa che unisca formazione e motivazione per dipendenti e appassionati del settore.
 
 ---
@@ -39,4 +39,5 @@ Creare una piattaforma che diventi:
 - Un ambiente digitale che valorizzi sia i **nuovi talenti** sia i **professionisti già inseriti**.
 
 ---
+
 
