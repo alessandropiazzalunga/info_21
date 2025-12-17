@@ -1,7 +1,7 @@
 # 📚 Piattaforma di Formazione e Fidelity per Project Informatica / WeAreProject
 
 ## 👥 Team
-- Studenti del triennio ITIS Informatica
+- Piazzalunga Alessandro, Gagu Mirko, Ferrari Giovanni, Garish Mohamed, Guisse Aboubakri
 - Obiettivo: creare una piattaforma innovativa che unisca formazione e motivazione per dipendenti e appassionati del settore.
 
 ---
