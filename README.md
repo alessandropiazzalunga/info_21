@@ -1,12 +1,12 @@
-# 📚 Piattaforma di Formazione e Fidelity per Project Informatica / WeAreProject
+# Piattaforma di Formazione e Fidelity per Project Informatica / WeAreProject
 
-## 👥 Team
+## Team
 - Piazzalunga Alessandro, Gagu Mirko, Ferrari Giovanni Battista, Garish Mohamed, Guisse Aboubakri
 - Obiettivo: creare una piattaforma innovativa che unisca formazione e motivazione per dipendenti e appassionati del settore.
 
 ---
 
-## 🎯 Obiettivi del Progetto
+## Obiettivi del Progetto
 - Formare **nuovi dipendenti** e **aspiranti lavoratori** nel settore WeAreProject.
 - Offrire un sistema di **classificazione** basato su:
   - Certificazioni
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Caratteristiche della Piattaforma
+## Caratteristiche della Piattaforma
 - **Multicanale**: disponibile come sito web, app e programma desktop.
 - **Sistema di ranking/classifica** per aspiranti lavoratori e neo-dipendenti.
 - **Percorsi formativi personalizzati** basati su certificazioni e competenze.
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Visione
+## Visione
 Creare una piattaforma che diventi:
 - Un punto di riferimento per la **formazione nel settore Project**.
 - Uno strumento di **motivazione e fidelizzazione** per i dipendenti.
